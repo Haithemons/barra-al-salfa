@@ -1,6 +1,6 @@
-const CACHE_NAME = 'barra-alsalfa-v5';
+const CACHE_NAME = 'barra-alsalfa-v6';
 const PAGE_PATH = './barra%20al-salfa.html';
-const ICON_PATH = './Noir%20Spy%20Silhouette%20Emblem.png';
+const ICON_PATH = './photo_2026-11-27_00-06-53.jpg';
 const CORE_ASSETS = [
   './',
   PAGE_PATH,
