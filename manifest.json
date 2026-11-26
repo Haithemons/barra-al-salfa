@@ -1,0 +1,24 @@
+{
+  "name": "برا السالفة",
+  "short_name": "برا السالفة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./barra%20al-salfa.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0f17",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "./Noir%20Spy%20Silhouette%20Emblem.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./Noir%20Spy%20Silhouette%20Emblem.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
