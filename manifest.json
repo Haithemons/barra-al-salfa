@@ -10,14 +10,14 @@
   "theme_color": "#f59e0b",
   "icons": [
     {
-      "src": "./Noir%20Spy%20Silhouette%20Emblem.png",
+      "src": "./photo_2026-11-27_00-06-53.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "./Noir%20Spy%20Silhouette%20Emblem.png",
+      "src": "./photo_2026-11-27_00-06-53.jpg",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/jpeg",
       "purpose": "any maskable"
     }
   ]
